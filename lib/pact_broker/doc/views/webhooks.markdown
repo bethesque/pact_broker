@@ -47,4 +47,4 @@ Send a DELETE request to the webhook URL.
 
 ### Updating
 
-Currently not implemented. You will need to delete and re-create the webhook.
+Updating is supported from version 2.5.0. You will need to delete and re-create the webhook in previous versions.
